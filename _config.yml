@@ -1,0 +1,46 @@
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+# --------------------------------------------------------------------------------
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+# --------------------------------------------------------------------------------
+
+title: Your Awesome Name # The name of the blog
+email: 
+description: >- # this means to ignore newlines until "url:". And the description will be shown below the title.
+  Hi, there. Welcome to jekyll. 
+url: "" # the base hostname & protocol for your site
+
+# jekyll-paginate
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Build settings
+theme: jekyll-dash 
+# These plugins are allowed by GitHub
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  
+dash:
+  date_format: "%b %-d, %Y"
+
+  disqus:
+    shortname: 
+
+  # generate social links in footer, 
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: 
+      icon: twitter-square
+      color: cyan
+    - url:  
+      icon: github-square
+      color: purple
+      
+  show_author: true
