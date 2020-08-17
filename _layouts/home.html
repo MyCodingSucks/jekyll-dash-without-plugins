@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
+
 {% unless site.dash.show_author == false %}
   {% include author.html %}
 {% endunless %}
+
 {% assign posts_count = paginator.posts | size %}
 {% if posts_count > 0 %}
 <h1>recent articles</h1>
@@ -36,8 +38,6 @@ layout: default
     </div>
 
     {% include pagination.html %}
-
-    {% include tagcloud.html %}
 {% else %}
 <h2>no posts yet.</h2>
 {% endif %}
