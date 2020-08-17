@@ -3,7 +3,7 @@
 Jekyll Dash is a Jekyll theme made by bitbrain.
 
 ## Introduction  
-The original one includes some plugins that don't availible on GitHub Pages.  
+The original one includes some plugins that isn't availible on GitHub Pages.  
 And using plugins seems to be difficult for amateur.  
 (yes i CAN'T understand what he write about the pucking flugins)   
 So I try to make it become plugins-free (
