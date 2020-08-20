@@ -1,17 +1,15 @@
-# [jekyll dash](https://github.com/bitbrain/jekyll-dash) without plugins  
+# [Jekyll Dash](https://github.com/bitbrain/jekyll-dash) without plugins  
 
 Jekyll Dash is a Jekyll theme made by bitbrain.
 
 ## Introduction  
 The original one includes some plugins that isn't availible on GitHub Pages.  
-And using plugins seems to be difficult for amateur.  
+And using plugins seems to be difficult for amateurs.  
 (yes i CAN'T understand what he write about the pucking flugins)   
 So I try to make it become plugins-free (
 
 It looks totally different between mine and the original one.  
-I am going to write a blog(Chinese) later to introduce how to custom.
-
-Yep, I am a noob. So if you have any question, please ask bitbrain, the creator, for help.
+I am going to write a blog (but in Chinese) later to introduce how to custom.
 
 ## Some documents:  
 ### How to build a jekyll blog  
