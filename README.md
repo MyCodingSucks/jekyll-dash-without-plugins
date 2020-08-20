@@ -21,7 +21,7 @@ https://gems.ruby-china.com/
 
 ### How to use tag without plugins  
 https://soyee.me/2018/03/20/jekyll-tags/  
-https://blog.webjeda.com/jekyll-categories/  
+https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in-your-jekyll-based-github-pages/  
 
 ### Plugins (However, third-party plugins are not availible due to GitHub) :  
 http://jekyllcn.com/docs/plugins/  
