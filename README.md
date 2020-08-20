@@ -24,6 +24,6 @@ https://soyee.me/2018/03/20/jekyll-tags/
 https://blog.webjeda.com/jekyll-categories/  
 
 ### Plugins (However, third-party plugins are not availible due to GitHub) :  
-http://jekyllcn.com/docs/home/  
+http://jekyllcn.com/docs/plugins/  
 https://github.com/pattex/jekyll-tagging  
 https://github.com/pathawks/liquid-md5
