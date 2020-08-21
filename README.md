@@ -9,7 +9,8 @@ And using plugins seems to be difficult for amateurs.
 So I try to make it become plugins-free (
 
 It looks totally different between mine and the original one.  
-I am going to write a blog (but in Chinese) later to introduce how to custom.
+~~I am going to write a blog (but in Chinese) later to introduce how to custom.~~  
+https://mycodingsucks.github.io/2020/08/21/diy-jekyll-dash.html
 
 ## Some documents:  
 ### How to build a jekyll blog  
